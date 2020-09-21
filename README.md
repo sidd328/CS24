@@ -1,2 +1,2 @@
-# CS24-2
+# CS24
 Code for CS24 Projects. 
